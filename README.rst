@@ -24,8 +24,8 @@ Extensions
 .. _repo1: https://github.com/auroraextensions/simpleredirects
 .. _repo2: https://github.com/auroraextensions/simplereturns
 
-* Simple Redirects
-* Simple Returns
+* |repo1|_
+* |repo2|_
 
 Documentation
 -------------
