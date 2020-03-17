@@ -16,13 +16,24 @@ Installation
 
     composer require auroraextensions/simplesuite
 
+Extensions
+----------
+
+.. |repo1| replace:: Simple Redirects
+.. |repo2| replace:: Simple Returns
+.. _repo1: https://github.com/auroraextensions/simpleredirects
+.. _repo2: https://github.com/auroraextensions/simplereturns
+
+* Simple Redirects
+* Simple Returns
+
 Documentation
 -------------
 
-.. |simpleredirects| replace:: Simple Redirects Documentation
-.. |simplereturns| replace:: Simple Returns Documentation
-.. _simpleredirects: https://docs.auroraextensions.com/magento/extensions/2.x/simpleredirects/latest/
-.. _simplereturns: https://docs.auroraextensions.com/magento/extensions/2.x/simplereturns/latest/
+.. |docs1| replace:: Simple Redirects Documentation
+.. |docs2| replace:: Simple Returns Documentation
+.. _docs1: https://docs.auroraextensions.com/magento/extensions/2.x/simpleredirects/latest/
+.. _docs2: https://docs.auroraextensions.com/magento/extensions/2.x/simplereturns/latest/
 
-* |simpleredirects|_
-* |simplereturns|_
+* |docs1|_
+* |docs2|_
