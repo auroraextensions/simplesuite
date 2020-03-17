@@ -1,0 +1,26 @@
+{
+  "name": "auroraextensions/simplesuite",
+  "description": "Suite of open-source extensions from Aurora Extensions.",
+  "type": "metapackage",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nickolas Burr",
+      "email": "nickolasburr@auroraextensions.com"
+    }
+  ],
+  "support": {
+    "email": "support@auroraextensions.com"
+  },
+  "require": {
+    "php": "~7.1.0||~7.2.0||~7.3.0",
+    "magento/framework": "^100||^101||^102",
+    "auroraextensions/simpleredirects": "~1.0.0||~1.1.0||~1.2.0",
+    "auroraextensions/simplereturns": "~1.0.0||~1.1.0||~1.2.0"
+  },
+  "suggest": {
+    "auroraextensions/simplereturnspro": "Extends Simple Returns to provide additional RMA features.",
+    "auroraextensions/simplereturns-sampledata": "Sample data for Simple Returns."
+  }
+}
